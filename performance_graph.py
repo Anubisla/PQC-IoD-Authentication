@@ -55,4 +55,8 @@ plt.ylabel("Time (seconds)")
 plt.title("Authentication Time Comparison")
 plt.legend()
 plt.savefig("performance_comparison.png", dpi=150, bbox_inches='tight')
+<<<<<<< HEAD
 plt.show()
+=======
+plt.show()
+>>>>>>> 33bbf0a89883e8474c3247274fb9abe794fd3d61
