@@ -28,7 +28,7 @@ This project proposes a two-phase authentication framework:
 Simulation run over 10 authentication attempts:
 
 | Metric | Full Authentication | Lightweight Re-authentication |
-
+|---|---|---|
 | Average Time | 0.001594 sec | 0.000028 sec |
 | **Overhead Reduction** | — | **98.25%** |
 
